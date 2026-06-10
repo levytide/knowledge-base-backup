@@ -203,11 +203,11 @@
     "file_path": "uploads/5940fd53-9112-4f26-b356-2c93ac9b14fe/深圳粤宝电子科技有限公司产品手册.jpg",
     "title": "深圳粤宝电子科技有限公司产品手册",
     "description": null,
-    "status": "processing",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 8,
     "tags": [],
     "uploaded_at": "2026-06-10T11:42:26.598678",
-    "updated_at": "2026-06-10T11:42:26.598678"
+    "updated_at": "2026-06-10T11:45:24.443098"
   },
   {
     "id": "9dc4c275-ba91-456d-80f1-cf8503994be2",

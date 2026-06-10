@@ -371,11 +371,11 @@
     "file_path": "uploads/5613b22f-6911-412e-8cdf-e0c1abdcf78a/2026_GigaDevice_Selection_Guide_cn[10434].pdf",
     "title": "2026_GigaDevice_Selection_Guide_cn[10434]",
     "description": null,
-    "status": "processing",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 1665,
     "tags": [],
     "uploaded_at": "2026-06-10T11:44:43.015997",
-    "updated_at": "2026-06-10T11:44:43.015997"
+    "updated_at": "2026-06-10T12:22:39.416464"
   },
   {
     "id": "447b3038-bf7e-449f-b440-943b9e1b31a2",
@@ -488,5 +488,19 @@
     "tags": [],
     "uploaded_at": "2026-06-10T11:56:11.297752",
     "updated_at": "2026-06-10T11:56:11.297752"
+  },
+  {
+    "id": "1164b196-f412-4b7e-94dc-304a8719ef49",
+    "filename": "智圣固能产品画册Zhisheng Guoneng Product Catalog.pdf",
+    "file_type": "pdf",
+    "file_size": 77308832,
+    "file_path": "uploads/1164b196-f412-4b7e-94dc-304a8719ef49/智圣固能产品画册Zhisheng Guoneng Product Catalog.pdf",
+    "title": "智圣固能产品画册Zhisheng Guoneng Product Catalog",
+    "description": null,
+    "status": "processing",
+    "chunk_count": 0,
+    "tags": [],
+    "uploaded_at": "2026-06-10T11:58:18.330856",
+    "updated_at": "2026-06-10T11:58:18.330856"
   }
 ]

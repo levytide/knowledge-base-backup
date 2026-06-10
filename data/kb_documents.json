@@ -259,11 +259,11 @@
     "file_path": "uploads/a0c8708e-1e05-4d90-ab84-d04e4da0a7b7/FPV AI 智能追踪模块.pdf",
     "title": "FPV AI 智能追踪模块",
     "description": null,
-    "status": "processing",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 6,
     "tags": [],
     "uploaded_at": "2026-06-10T11:42:59.904884",
-    "updated_at": "2026-06-10T11:42:59.904884"
+    "updated_at": "2026-06-10T11:47:29.286864"
   },
   {
     "id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
@@ -432,5 +432,19 @@
     "tags": [],
     "uploaded_at": "2026-06-10T11:45:59.819985",
     "updated_at": "2026-06-10T11:45:59.819985"
+  },
+  {
+    "id": "02ff7a73-328d-4cf7-aa03-e070cd8ef74f",
+    "filename": "1_低空经济装备互连整体方案和连接器选用手册HF1.0.pdf",
+    "file_type": "pdf",
+    "file_size": 32748413,
+    "file_path": "uploads/02ff7a73-328d-4cf7-aa03-e070cd8ef74f/1_低空经济装备互连整体方案和连接器选用手册HF1.0.pdf",
+    "title": "1_低空经济装备互连整体方案和连接器选用手册HF1.0",
+    "description": null,
+    "status": "processing",
+    "chunk_count": 0,
+    "tags": [],
+    "uploaded_at": "2026-06-10T11:47:19.127549",
+    "updated_at": "2026-06-10T11:47:19.127549"
   }
 ]

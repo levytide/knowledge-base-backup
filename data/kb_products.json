@@ -1727,30 +1727,6 @@
     ]
   },
   {
-    "id": "eb1b1990-adda-49f5-91b2-2854eda079be",
-    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
-    "name": "碳纤维单向预浸料 UIN075",
-    "model": "UIN075",
-    "brand": null,
-    "summary": "碳纤维单向预浸料，纤维模量30TON，面密度75g/m2。",
-    "category_type": "COMMUNICATION",
-    "category_name": "通信设备",
-    "specs": {
-      "幅度": "1000 mm",
-      "标准厚度": "0.08 mm",
-      "树脂含量": "30%",
-      "纤维模量": "30TON",
-      "纤维面密度": "75 g/m2",
-      "预浸料密度": "107 g/m2"
-    },
-    "source_filename": "赛瑞画册.pdf",
-    "created_at": "2026-06-10T11:44:11.262142",
-    "updated_at": "2026-06-10T11:44:11.262142",
-    "page_numbers": [
-      7
-    ]
-  },
-  {
     "id": "c4aebe28-fad7-48b6-9096-abe5ed61fbca",
     "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
     "name": "碳纤维单向预浸料 UHN100",
@@ -1773,6 +1749,30 @@
     "page_numbers": [
       7,
       8
+    ]
+  },
+  {
+    "id": "eb1b1990-adda-49f5-91b2-2854eda079be",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 UIN075",
+    "model": "UIN075",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量30TON，面密度75g/m2。",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.08 mm",
+      "树脂含量": "30%",
+      "纤维模量": "30TON",
+      "纤维面密度": "75 g/m2",
+      "预浸料密度": "107 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
     ]
   },
   {
@@ -4231,24 +4231,24 @@
     ]
   },
   {
-    "id": "b4cb7d0c-0d6e-4caa-9549-e6ef64b2b109",
+    "id": "e4e73560-c7eb-4da3-855a-9b23a782d3ae",
     "document_id": "3a96214b-0cf9-4f90-9a3c-9f513e6878c7",
-    "name": "29AH6S电池",
-    "model": "29AH6S",
+    "name": "29AH12S电池",
+    "model": "29AH12S",
     "brand": null,
-    "summary": "高能量密度锂聚合物电池，容量29Ah，6S配置。",
+    "summary": "高能量密度锂聚合物电池，容量29Ah，12S配置。",
     "category_type": "POWER",
     "category_name": "动力设备",
     "specs": {
-      "重量": "2.56kg",
+      "重量": "5.05kg",
       "储存电压": "3.9-3.95V",
       "充电倍率": "0.5-1C",
       "持续倍率": "2-3C",
       "标称电压": "3.95V",
       "满电电压": "4.45V",
-      "能量密度": "268.5wh/kg",
+      "能量密度": "272.2wh/kg",
       "瞬间最大倍率": "10C",
-      "尺寸(长*宽*高)": "220*90*67mm"
+      "尺寸(长*宽*高)": "220*90*135mm"
     },
     "source_filename": "宣传页Catalog.pdf",
     "created_at": "2026-06-10T11:44:52.164343",
@@ -4435,24 +4435,24 @@
     ]
   },
   {
-    "id": "e4e73560-c7eb-4da3-855a-9b23a782d3ae",
+    "id": "b4cb7d0c-0d6e-4caa-9549-e6ef64b2b109",
     "document_id": "3a96214b-0cf9-4f90-9a3c-9f513e6878c7",
-    "name": "29AH12S电池",
-    "model": "29AH12S",
+    "name": "29AH6S电池",
+    "model": "29AH6S",
     "brand": null,
-    "summary": "高能量密度锂聚合物电池，容量29Ah，12S配置。",
+    "summary": "高能量密度锂聚合物电池，容量29Ah，6S配置。",
     "category_type": "POWER",
     "category_name": "动力设备",
     "specs": {
-      "重量": "5.05kg",
+      "重量": "2.56kg",
       "储存电压": "3.9-3.95V",
       "充电倍率": "0.5-1C",
       "持续倍率": "2-3C",
       "标称电压": "3.95V",
       "满电电压": "4.45V",
-      "能量密度": "272.2wh/kg",
+      "能量密度": "268.5wh/kg",
       "瞬间最大倍率": "10C",
-      "尺寸(长*宽*高)": "220*90*135mm"
+      "尺寸(长*宽*高)": "220*90*67mm"
     },
     "source_filename": "宣传页Catalog.pdf",
     "created_at": "2026-06-10T11:44:52.164343",
@@ -7753,26 +7753,24 @@
     ]
   },
   {
-    "id": "b6745bc0-80fc-45ba-9200-fce0062642da",
+    "id": "3f08355f-d9fd-42c8-be60-4a03400c675d",
     "document_id": "447b3038-bf7e-449f-b440-943b9e1b31a2",
-    "name": "无人机防御系统指挥控制软件",
+    "name": "低空探测雷达系列产品",
     "model": null,
     "brand": "理工雷科",
-    "summary": "具备信息、设备、任务管理能力，自动完成防御全流程。",
-    "category_type": "GCS",
-    "category_name": "地面站",
+    "summary": "采用二维有源相控阵体制，探测跟踪低空目标，输出四维坐标信息。",
+    "category_type": "ANTI_DRONE",
+    "category_name": "反无人机",
     "specs": {
-      "功能": "预警探测、目标识别、威胁评估、目标拦截",
-      "工作模式": "全天候、全时段、全方位智能值守"
+      "体制": "二维有源相控阵",
+      "探测目标": "低空鸟类、无人机",
+      "输出信息": "距离、高度、方位、速度四维坐标"
     },
     "source_filename": "无人机防御系统20260415.pdf",
     "created_at": "2026-06-10T11:45:56.361502",
     "updated_at": "2026-06-10T11:45:56.361502",
     "page_numbers": [
-      12,
-      13,
-      14,
-      15
+      14
     ]
   },
   {
@@ -7931,24 +7929,26 @@
     ]
   },
   {
-    "id": "3f08355f-d9fd-42c8-be60-4a03400c675d",
+    "id": "b6745bc0-80fc-45ba-9200-fce0062642da",
     "document_id": "447b3038-bf7e-449f-b440-943b9e1b31a2",
-    "name": "低空探测雷达系列产品",
+    "name": "无人机防御系统指挥控制软件",
     "model": null,
     "brand": "理工雷科",
-    "summary": "采用二维有源相控阵体制，探测跟踪低空目标，输出四维坐标信息。",
-    "category_type": "ANTI_DRONE",
-    "category_name": "反无人机",
+    "summary": "具备信息、设备、任务管理能力，自动完成防御全流程。",
+    "category_type": "GCS",
+    "category_name": "地面站",
     "specs": {
-      "体制": "二维有源相控阵",
-      "探测目标": "低空鸟类、无人机",
-      "输出信息": "距离、高度、方位、速度四维坐标"
+      "功能": "预警探测、目标识别、威胁评估、目标拦截",
+      "工作模式": "全天候、全时段、全方位智能值守"
     },
     "source_filename": "无人机防御系统20260415.pdf",
     "created_at": "2026-06-10T11:45:56.361502",
     "updated_at": "2026-06-10T11:45:56.361502",
     "page_numbers": [
-      14
+      12,
+      13,
+      14,
+      15
     ]
   },
   {
@@ -8072,31 +8072,6 @@
     ]
   },
   {
-    "id": "1d2b5e57-6ed6-4ead-9497-0290b93eaf5a",
-    "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
-    "name": "高压检流运放GD30IN240",
-    "model": "GD30IN240",
-    "brand": null,
-    "summary": "宽共模电压范围-6V至80V，高增益精度，低失调电压",
-    "category_type": "POWER",
-    "category_name": "动力设备",
-    "specs": {
-      "封装": "SOIC-8、MSOP-8、TSSOP-8",
-      "增益温漂": "28ppm/C（-40~125°C）",
-      "增益误差": "0.1% (max)",
-      "增益选项": "20、50、100",
-      "失调电压": "15μV（最大值）",
-      "共模电压范围": "-6V至80V",
-      "失调电压温度漂移": "0.6μV/°C（-40~125°C）"
-    },
-    "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
-    "created_at": "2026-06-10T11:46:21.777347",
-    "updated_at": "2026-06-10T11:46:21.777347",
-    "page_numbers": [
-      5
-    ]
-  },
-  {
     "id": "966e6a72-2885-4fd1-bc57-56e647952c48",
     "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
     "name": "GDY1121高精度气压传感器",
@@ -8156,6 +8131,31 @@
       "封装": "ESOP8、SOT23",
       "输入电压": "100V",
       "连续电流输出": "1/2/3A"
+    },
+    "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
+    "created_at": "2026-06-10T11:46:21.777347",
+    "updated_at": "2026-06-10T11:46:21.777347",
+    "page_numbers": [
+      5
+    ]
+  },
+  {
+    "id": "1d2b5e57-6ed6-4ead-9497-0290b93eaf5a",
+    "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
+    "name": "高压检流运放GD30IN240",
+    "model": "GD30IN240",
+    "brand": null,
+    "summary": "宽共模电压范围-6V至80V，高增益精度，低失调电压",
+    "category_type": "POWER",
+    "category_name": "动力设备",
+    "specs": {
+      "封装": "SOIC-8、MSOP-8、TSSOP-8",
+      "增益温漂": "28ppm/C（-40~125°C）",
+      "增益误差": "0.1% (max)",
+      "增益选项": "20、50、100",
+      "失调电压": "15μV（最大值）",
+      "共模电压范围": "-6V至80V",
+      "失调电压温度漂移": "0.6μV/°C（-40~125°C）"
     },
     "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
     "created_at": "2026-06-10T11:46:21.777347",
@@ -8403,6 +8403,40 @@
     "page_numbers": [
       5,
       6
+    ]
+  },
+  {
+    "id": "97617d83-b816-462c-be9d-4d6b18ef8eda",
+    "document_id": "a0c8708e-1e05-4d90-ab84-d04e4da0a7b7",
+    "name": "FPV AI 智能追踪模块",
+    "model": "Viztra-HS063M",
+    "brand": null,
+    "summary": "轻量模块化AI追踪模块，兼容主流无人机硬件架构，实现智能作战单元升级。",
+    "category_type": "OPTICAL",
+    "category_name": "光学设备",
+    "specs": {
+      "主控": "专用 ASIC",
+      "功率": "4W稳态（12V）",
+      "NPU 算力": "4~16 TOPS",
+      "像素尺寸": "3.0 μm × 3.0 μm",
+      "典型模组": "Viztra-HS063M",
+      "存储温度": "-30°C~70°C",
+      "工作温度": "-20°C~60°C",
+      "模块尺寸": "38 (长) x 38 (宽) x 20.8 (高)mm",
+      "模块重量": "52±2 g",
+      "输入电压": "9~16 V",
+      "镜头尺寸": "19*19*27 mm",
+      "镜头焦距": "8 mm",
+      "镜面尺寸": "1/2.6\"",
+      "可见光分辨率": "1920*1080",
+      "可见光摄像头": "200 W~500 W像素",
+      "视频输入帧率": "100 Hz"
+    },
+    "source_filename": "FPV AI 智能追踪模块.pdf",
+    "created_at": "2026-06-10T11:47:29.286864",
+    "updated_at": "2026-06-10T11:47:29.286864",
+    "page_numbers": [
+      2
     ]
   }
 ]

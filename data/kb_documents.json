@@ -329,11 +329,11 @@
     "file_path": "uploads/95be8268-f08f-4945-bdf3-01cc3fbdb59d/产品手册中文黄色版-2026.4.10在用.pdf",
     "title": "产品手册中文黄色版-2026.4.10在用",
     "description": null,
-    "status": "processing",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 8,
     "tags": [],
     "uploaded_at": "2026-06-10T11:43:46.748060",
-    "updated_at": "2026-06-10T11:43:46.748060"
+    "updated_at": "2026-06-10T11:53:23.016217"
   },
   {
     "id": "19fc1ca3-d69e-4525-af1d-d62fde277c2a",

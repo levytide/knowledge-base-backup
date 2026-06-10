@@ -469,11 +469,11 @@
     "file_path": "uploads/daf4ce5e-6b93-4685-8719-59b124d4dffe/Zeee 2026 catalog.xlsx",
     "title": "Zeee 2026 catalog",
     "description": null,
-    "status": "processing",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 161,
     "tags": [],
     "uploaded_at": "2026-06-10T11:52:04.657020",
-    "updated_at": "2026-06-10T11:52:04.657020"
+    "updated_at": "2026-06-10T12:33:24.654319"
   },
   {
     "id": "03d1b2c0-06a2-48d9-a458-91eb1eb85de1",
@@ -483,11 +483,11 @@
     "file_path": "uploads/03d1b2c0-06a2-48d9-a458-91eb1eb85de1/最新产品图册CN 8-26.pdf",
     "title": "最新产品图册CN 8-26",
     "description": null,
-    "status": "processing",
+    "status": "error",
     "chunk_count": 0,
     "tags": [],
     "uploaded_at": "2026-06-10T11:56:11.297752",
-    "updated_at": "2026-06-10T11:56:11.297752"
+    "updated_at": "2026-06-10T12:33:47.065692"
   },
   {
     "id": "1164b196-f412-4b7e-94dc-304a8719ef49",
@@ -497,10 +497,10 @@
     "file_path": "uploads/1164b196-f412-4b7e-94dc-304a8719ef49/智圣固能产品画册Zhisheng Guoneng Product Catalog.pdf",
     "title": "智圣固能产品画册Zhisheng Guoneng Product Catalog",
     "description": null,
-    "status": "processing",
+    "status": "error",
     "chunk_count": 0,
     "tags": [],
     "uploaded_at": "2026-06-10T11:58:18.330856",
-    "updated_at": "2026-06-10T11:58:18.330856"
+    "updated_at": "2026-06-10T12:33:47.073948"
   }
 ]

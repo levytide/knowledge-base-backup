@@ -8070,5 +8070,296 @@
       14,
       15
     ]
+  },
+  {
+    "id": "ae9fd29e-46df-4cf2-916b-3e68875d9546",
+    "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
+    "name": "GD32E235系列MCU",
+    "model": "GD32E235",
+    "brand": "GigaDevice",
+    "summary": "基于Arm Cortex-M23内核的微控制器，主频72MHz，用于电调控制。",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "主频": "72MHz",
+      "内核": "Arm Cortex-M23",
+      "ADC精度": "12位",
+      "通用接口": "丰富",
+      "定时器资源": "丰富"
+    },
+    "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
+    "created_at": "2026-06-10T11:46:21.777347",
+    "updated_at": "2026-06-10T11:46:21.777347",
+    "page_numbers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "3050e76a-6634-439e-a724-ce0275c307bd",
+    "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
+    "name": "GD32F505/503系列MCU",
+    "model": "GD32F505/503",
+    "brand": "GigaDevice",
+    "summary": "基于Arm Cortex-M33内核的高性能微控制器系列。",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "SRAM": "192KB",
+      "Flash": "1024KB",
+      "主频": "GD32F505: 280MHz, GD32F503: 252MHz",
+      "I2C数量": "2",
+      "I2S数量": "2",
+      "SPI数量": "3",
+      "UART数量": "2",
+      "USART数量": "3",
+      "USBFS接口": "1",
+      "ADC通道数": "25",
+      "ADC采样率": "3Msps",
+      "CAN-FD数量": "2",
+      "功能安全认证": "IEC61508 SC3 (SIL2/SIL3)"
+    },
+    "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
+    "created_at": "2026-06-10T11:46:21.777347",
+    "updated_at": "2026-06-10T11:46:21.777347",
+    "page_numbers": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": "61f99a0b-d96d-4d41-96dc-99640a1a3652",
+    "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
+    "name": "GD32VW553系列MCU",
+    "model": "GD32VW553",
+    "brand": null,
+    "summary": "支持Wi-Fi6及Bluetooth LE 5.2无线连接的微控制器",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "I2C": "2个",
+      "SPI": "1个",
+      "GPIO": "29个可编程",
+      "QSPI": "1个四线制",
+      "SRAM": "320KB",
+      "Flash": "4MB",
+      "U(S)ART": "3个",
+      "供电电压": "1.8V~3.6V",
+      "工作温度": "85°C~105°C",
+      "无线连接": "Wi-Fi6, Bluetooth LE 5.2",
+      "指令高速缓存": "32KB可配置I-Cache"
+    },
+    "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
+    "created_at": "2026-06-10T11:46:21.777347",
+    "updated_at": "2026-06-10T11:46:21.777347",
+    "page_numbers": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "9147eb42-5602-45d4-90af-fefcbb302627",
+    "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
+    "name": "GD32E235系列MCU",
+    "model": "GD32E235系列",
+    "brand": null,
+    "summary": "基于Arm Cortex-M23内核的MCU，主频72MHz，适用于电机控制和工业应用。",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "ADC": "1个12位",
+      "I2C": "2个",
+      "I2S": "1个",
+      "SPI": "2个",
+      "SRAM": "4KB到16KB",
+      "USART": "2个",
+      "主频": "72MHz",
+      "内核": "Arm Cortex-M23",
+      "比较器": "1个",
+      "基本定时器": "1个16位",
+      "嵌入式闪存": "16KB到128KB",
+      "通用定时器": "5个16位",
+      "高级定时器": "1个16位"
+    },
+    "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
+    "created_at": "2026-06-10T11:46:21.777347",
+    "updated_at": "2026-06-10T11:46:21.777347",
+    "page_numbers": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": "92615818-fdb8-45b9-802f-dd6ba769fe55",
+    "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
+    "name": "SPI NOR Flash GD25Q128E/GD25Q128H",
+    "model": "GD25Q128E/GD25Q128H",
+    "brand": null,
+    "summary": "SPI NOR Flash存储器，用于无人机电调、摄像模组等",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "容量": "128Mb",
+      "封装": "SOP8 208mil, USON8 4x4mm, WSON8 6x5mm, WSON8 8x6mm, TFBGA24 5x5 ball array",
+      "频率": "133MHz(x1x2x4)",
+      "工作电压": "2.7V~3.6V"
+    },
+    "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
+    "created_at": "2026-06-10T11:46:21.777347",
+    "updated_at": "2026-06-10T11:46:21.777347",
+    "page_numbers": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "id": "4109e3a0-f6b4-4270-82ab-86987196ed1c",
+    "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
+    "name": "M7/M8系列SPI NAND Flash",
+    "model": "M7/M8系列",
+    "brand": null,
+    "summary": "SPI NAND Flash存储器，支持多种容量和擦写次数",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "频率": "133MHz/104MHz",
+      "擦写次数": "8~10万次",
+      "支持容量": "512Mb/1Gb/2Gb/4Gb/8Gb",
+      "电压规格": "3V/1.8V"
+    },
+    "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
+    "created_at": "2026-06-10T11:46:21.777347",
+    "updated_at": "2026-06-10T11:46:21.777347",
+    "page_numbers": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": "7dd1e4d2-8964-4715-9293-0cfcb5c84d7f",
+    "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
+    "name": "BMS AFE GD30BM2016",
+    "model": "GD30BM2016",
+    "brand": null,
+    "summary": "3-16串电池电压检测芯片，支持多路NTC测量和高速电流采样。",
+    "category_type": "POWER",
+    "category_name": "动力设备",
+    "specs": {
+      "封装": "LQFP-48",
+      "电池串数": "3-16串",
+      "LDO输出电流": "最大50mA",
+      "NTC测量精度": "+/-2°C",
+      "NTC测量路数": "最高9路",
+      "供电电压范围": "8-80V",
+      "电压检测精度": "+/-7.5mV（全温度）",
+      "电流采样速度": "1ms",
+      "电流采集误差": "+/-50uV（全温度）",
+      "NTC测量温度范围": "-40 到 125°C",
+      "电流采集线性度": "+/-0.5%"
+    },
+    "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
+    "created_at": "2026-06-10T11:46:21.777347",
+    "updated_at": "2026-06-10T11:46:21.777347",
+    "page_numbers": [
+      4
+    ]
+  },
+  {
+    "id": "17746ec1-6b94-4642-b879-501fb2519efb",
+    "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
+    "name": "高效率高压DC-DC降压电源GD30DC1801/02/03/04",
+    "model": "GD30DC1801/02/03/04",
+    "brand": null,
+    "summary": "支持100V高压输入，1/2/3A连续电流输出，COT控制策略",
+    "category_type": "POWER",
+    "category_name": "动力设备",
+    "specs": {
+      "封装": "ESOP8、SOT23",
+      "输入电压": "100V",
+      "连续电流输出": "1/2/3A"
+    },
+    "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
+    "created_at": "2026-06-10T11:46:21.777347",
+    "updated_at": "2026-06-10T11:46:21.777347",
+    "page_numbers": [
+      5
+    ]
+  },
+  {
+    "id": "59a28d10-d7dd-4c51-9e87-481b571428d1",
+    "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
+    "name": "高效率高压DC-DC降压电源GD30DC1901/02",
+    "model": "GD30DC1901/02",
+    "brand": null,
+    "summary": "支持100V高压输入，1/2/3A连续电流输出，COT控制策略",
+    "category_type": "POWER",
+    "category_name": "动力设备",
+    "specs": {
+      "封装": "ESOP8、SOT23",
+      "输入电压": "100V",
+      "连续电流输出": "1/2/3A"
+    },
+    "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
+    "created_at": "2026-06-10T11:46:21.777347",
+    "updated_at": "2026-06-10T11:46:21.777347",
+    "page_numbers": [
+      5
+    ]
+  },
+  {
+    "id": "1d2b5e57-6ed6-4ead-9497-0290b93eaf5a",
+    "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
+    "name": "高压检流运放GD30IN240",
+    "model": "GD30IN240",
+    "brand": null,
+    "summary": "宽共模电压范围-6V至80V，高增益精度，低失调电压",
+    "category_type": "POWER",
+    "category_name": "动力设备",
+    "specs": {
+      "封装": "SOIC-8、MSOP-8、TSSOP-8",
+      "增益温漂": "28ppm/C（-40~125°C）",
+      "增益误差": "0.1% (max)",
+      "增益选项": "20、50、100",
+      "失调电压": "15μV（最大值）",
+      "共模电压范围": "-6V至80V",
+      "失调电压温度漂移": "0.6μV/°C（-40~125°C）"
+    },
+    "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
+    "created_at": "2026-06-10T11:46:21.777347",
+    "updated_at": "2026-06-10T11:46:21.777347",
+    "page_numbers": [
+      5
+    ]
+  },
+  {
+    "id": "966e6a72-2885-4fd1-bc57-56e647952c48",
+    "document_id": "e0684d92-b8a9-4d30-9579-13472daf9909",
+    "name": "GDY1121高精度气压传感器",
+    "model": "GDY1121",
+    "brand": null,
+    "summary": "高精度气压传感器，适用于无人机高度测量与悬停稳定。",
+    "category_type": "OPTICAL",
+    "category_name": "光学设备",
+    "specs": {
+      "量程": "300-1250hPa",
+      "最高ODR": "250Hz",
+      "工作电流": "47~564 μA",
+      "待机电流": "1.2μA",
+      "相对精度": "±0.06 hPa",
+      "绝对精度": "±0.5hPa",
+      "转换周期": "4ms"
+    },
+    "source_filename": "Flyer-Civilian Drone-CN-online.pdf",
+    "created_at": "2026-06-10T11:46:21.777347",
+    "updated_at": "2026-06-10T11:46:21.777347",
+    "page_numbers": [
+      5,
+      6
+    ]
   }
 ]

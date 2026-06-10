@@ -301,11 +301,11 @@
     "file_path": "uploads/9303a1e1-470e-4289-b8fd-309f80250ae3/兆易创新 2026 国际无人机展览会 产品介绍.pdf",
     "title": "兆易创新 2026 国际无人机展览会 产品介绍",
     "description": null,
-    "status": "processing",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 56,
     "tags": [],
     "uploaded_at": "2026-06-10T11:43:30.648453",
-    "updated_at": "2026-06-10T11:43:30.648453"
+    "updated_at": "2026-06-10T11:51:47.197575"
   },
   {
     "id": "3ad7d684-8746-4340-823e-ab5167f8e0f5",
@@ -446,5 +446,19 @@
     "tags": [],
     "uploaded_at": "2026-06-10T11:47:19.127549",
     "updated_at": "2026-06-10T11:47:19.127549"
+  },
+  {
+    "id": "94e5db86-6af4-456e-83bf-bfe5a40ed5ca",
+    "filename": "达盛舵机画册最新版-20260512(1).pdf",
+    "file_type": "pdf",
+    "file_size": 40155554,
+    "file_path": "uploads/94e5db86-6af4-456e-83bf-bfe5a40ed5ca/达盛舵机画册最新版-20260512(1).pdf",
+    "title": "达盛舵机画册最新版-20260512(1)",
+    "description": null,
+    "status": "processing",
+    "chunk_count": 0,
+    "tags": [],
+    "uploaded_at": "2026-06-10T11:50:46.046771",
+    "updated_at": "2026-06-10T11:50:46.046771"
   }
 ]

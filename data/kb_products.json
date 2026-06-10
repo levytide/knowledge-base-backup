@@ -1538,5 +1538,802 @@
       33,
       34
     ]
+  },
+  {
+    "id": "b2a4adc8-4cd5-43f8-b6f9-90eb4f049e85",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维双向编织织物 RF200P",
+    "model": "RF200P",
+    "brand": null,
+    "summary": "碳纤维平纹编织织物，面密度200g/m2，用于复合材料增强。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "厚度": "0.26 mm",
+      "幅度": "1000 mm",
+      "树脂含量": "40%",
+      "纤维规格": "3K",
+      "编制方式": "平纹",
+      "纤维面密度": "200 g/m2",
+      "预浸料密度": "333 g/m2",
+      "经纬密度(10mm)": "5×5"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "b102d66b-6895-404f-a3a2-970d9324aae5",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维双向编织织物 RF200T",
+    "model": "RF200T",
+    "brand": null,
+    "summary": "碳纤维斜纹编织织物，面密度200g/m2，用于复合材料增强。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "厚度": "0.26 mm",
+      "幅度": "1000 mm",
+      "树脂含量": "40%",
+      "纤维规格": "3K",
+      "编制方式": "斜纹",
+      "纤维面密度": "200 g/m2",
+      "预浸料密度": "333 g/m2",
+      "经纬密度(10mm)": "5×5"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "d02fd77b-b309-4072-8bd3-1726163e43f2",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维双向编织织物 RF220P",
+    "model": "RF220P",
+    "brand": null,
+    "summary": "碳纤维平纹编织织物，面密度220g/m2，用于复合材料增强。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "厚度": "0.28 mm",
+      "幅度": "1000 mm",
+      "树脂含量": "40%",
+      "纤维规格": "3K",
+      "编制方式": "平纹",
+      "纤维面密度": "220 g/m2",
+      "预浸料密度": "367 g/m2",
+      "经纬密度(10mm)": "5.5×5.5"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "5e57785a-eb31-48ac-8430-1e27fbe5a97d",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维双向编织织物 RF220T",
+    "model": "RF220T",
+    "brand": null,
+    "summary": "碳纤维斜纹编织织物，面密度220g/m2，用于复合材料增强。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "厚度": "0.29 mm",
+      "幅度": "1000 mm",
+      "树脂含量": "40%",
+      "纤维规格": "3K",
+      "编制方式": "斜纹",
+      "纤维面密度": "220 g/m2",
+      "预浸料密度": "367 g/m2",
+      "经纬密度(10mm)": "5.5×5.5"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "ffabeae9-b73a-4feb-b1c5-3f29f99c326d",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维双向编织织物 RF240P",
+    "model": "RF240P",
+    "brand": null,
+    "summary": "碳纤维平纹编织织物，面密度240g/m2，用于复合材料增强。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "厚度": "0.31 mm",
+      "幅度": "1000 mm",
+      "树脂含量": "40%",
+      "纤维规格": "3K",
+      "编制方式": "平纹",
+      "纤维面密度": "240 g/m2",
+      "预浸料密度": "400 g/m2",
+      "经纬密度(10mm)": "6×6"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "17d6bcc6-5997-4f65-bfad-c2c7a4b8a4ad",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维双向编织织物 RF240T",
+    "model": "RF240T",
+    "brand": null,
+    "summary": "碳纤维斜纹编织织物，面密度240g/m2，用于复合材料增强。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "厚度": "0.31 mm",
+      "幅度": "1000 mm",
+      "树脂含量": "40%",
+      "纤维规格": "3K",
+      "编制方式": "斜纹",
+      "纤维面密度": "240 g/m2",
+      "预浸料密度": "400 g/m2",
+      "经纬密度(10mm)": "6×6"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "d8ca8256-464c-487b-9459-7542ef1baaaf",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维双向编织织物 RF320P",
+    "model": "RF320P",
+    "brand": null,
+    "summary": "碳纤维平纹编织织物，面密度320g/m2，用于复合材料增强。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "厚度": "0.39 mm",
+      "幅度": "1000 mm",
+      "树脂含量": "40%",
+      "纤维规格": "6K",
+      "编制方式": "平纹",
+      "纤维面密度": "320 g/m2",
+      "预浸料密度": "533 g/m2",
+      "经纬密度(10mm)": "4×4"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "89d38132-70f1-4fb0-9b86-b693764285d1",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维双向编织织物 RF320T",
+    "model": "RF320T",
+    "brand": null,
+    "summary": "碳纤维斜纹编织织物，面密度320g/m2，用于复合材料增强。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "厚度": "0.39 mm",
+      "幅度": "1000 mm",
+      "树脂含量": "40%",
+      "纤维规格": "6K",
+      "编制方式": "斜纹",
+      "纤维面密度": "320 g/m2",
+      "预浸料密度": "533 g/m2",
+      "经纬密度(10mm)": "4×4"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "2f2581e9-089e-4811-ab11-41774ffff847",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维双向编织织物 RF400P (6K)",
+    "model": "RF400P",
+    "brand": null,
+    "summary": "碳纤维平纹编织织物，面密度400g/m2，6K纤维，用于复合材料增强。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "厚度": "0.43 mm",
+      "幅度": "1000 mm",
+      "树脂含量": "40%",
+      "纤维规格": "6K",
+      "编制方式": "平纹",
+      "纤维面密度": "400 g/m2",
+      "预浸料密度": "667 g/m2",
+      "经纬密度(10mm)": "5×5"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "6f7f0c21-b3a0-4fea-9467-4b7392a5d253",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维双向编织织物 RF400T (6K)",
+    "model": "RF400T",
+    "brand": null,
+    "summary": "碳纤维斜纹编织织物，面密度400g/m2，6K纤维，用于复合材料增强。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "厚度": "0.43 mm",
+      "幅度": "1000 mm",
+      "树脂含量": "40%",
+      "纤维规格": "6K",
+      "编制方式": "斜纹",
+      "纤维面密度": "400 g/m2",
+      "预浸料密度": "667 g/m2",
+      "经纬密度(10mm)": "5×5"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "bbebdcbb-89dc-4a97-b5f2-80665aa2186b",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维双向编织织物 RF480P",
+    "model": "RF480P",
+    "brand": null,
+    "summary": "碳纤维平纹编织织物，面密度480g/m2，用于复合材料增强。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "厚度": "0.52 mm",
+      "幅度": "1000 mm",
+      "纤维规格": "12K",
+      "编制方式": "平纹",
+      "纤维面密度": "480 g/m2",
+      "经纬密度(10mm)": "3×3"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "015040a7-4108-443e-8a35-10c26cefe958",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维双向编织织物 RF480T",
+    "model": "RF480T",
+    "brand": null,
+    "summary": "碳纤维斜纹编织织物，面密度480g/m2，用于复合材料增强。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "厚度": "0.52 mm",
+      "幅度": "1000 mm",
+      "纤维规格": "12K",
+      "编制方式": "斜纹",
+      "纤维面密度": "480 g/m2",
+      "经纬密度(10mm)": "3×3"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "0ec32f69-6236-44b6-be95-79a8522d215c",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 USN030",
+    "model": "USN030",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量24TON，面密度30g/m2。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.035 mm",
+      "树脂含量": "42%",
+      "纤维模量": "24TON",
+      "纤维面密度": "30 g/m2",
+      "预浸料密度": "52 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "48c887ec-4fe2-4e1b-b85c-a9d3fa5ec502",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 USN054",
+    "model": "USN054",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量24TON，面密度54g/m2。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.06 mm",
+      "树脂含量": "38%",
+      "纤维模量": "24TON",
+      "纤维面密度": "54 g/m2",
+      "预浸料密度": "87 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "d9328696-ccf3-4806-875e-a5d9e0e9aed4",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 USN075",
+    "model": "USN075",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量24TON，面密度75g/m2。",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.08 mm",
+      "树脂含量": "32%",
+      "纤维模量": "24TON",
+      "纤维面密度": "75 g/m2",
+      "预浸料密度": "110 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "00d01efb-846d-47d1-a152-645820f9629b",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 USN100",
+    "model": "USN100",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量24TON，面密度100g/m2。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.10 mm",
+      "树脂含量": "32%",
+      "纤维模量": "24TON",
+      "纤维面密度": "100 g/m2",
+      "预浸料密度": "147 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "d34968f5-22b9-438d-8cc6-24d434f01e0c",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 USN125",
+    "model": "USN125",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量24TON，面密度125g/m2。",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.13 mm",
+      "树脂含量": "32%",
+      "纤维模量": "24TON",
+      "纤维面密度": "125 g/m2",
+      "预浸料密度": "184 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "f1d35a6e-86f1-4078-a93f-bd1d83128530",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 USN150",
+    "model": "USN150",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量24TON，面密度150g/m2。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.15 mm",
+      "树脂含量": "32%",
+      "纤维模量": "24TON",
+      "纤维面密度": "150 g/m2",
+      "预浸料密度": "220 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "863706d2-6eee-428a-963a-5190ea535f6a",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 USN175",
+    "model": "USN175",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量24TON，面密度175g/m2。",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.17 mm",
+      "树脂含量": "32%",
+      "纤维模量": "24TON",
+      "纤维面密度": "175 g/m2",
+      "预浸料密度": "257 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "a568f617-7882-47b7-ac57-019225fbba4d",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 USN200",
+    "model": "USN200",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量24TON，面密度200g/m2。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.2 mm",
+      "树脂含量": "32%",
+      "纤维模量": "24TON",
+      "纤维面密度": "200 g/m2",
+      "预浸料密度": "294 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "f75cb2f4-6724-4240-b031-d984cde7956b",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 UIN054",
+    "model": "UIN054",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量30TON，面密度54g/m2。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.06 mm",
+      "树脂含量": "38%",
+      "纤维模量": "30TON",
+      "纤维面密度": "54 g/m2",
+      "预浸料密度": "87 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "eb1b1990-adda-49f5-91b2-2854eda079be",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 UIN075",
+    "model": "UIN075",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量30TON，面密度75g/m2。",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.08 mm",
+      "树脂含量": "30%",
+      "纤维模量": "30TON",
+      "纤维面密度": "75 g/m2",
+      "预浸料密度": "107 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "55306acb-49d7-4240-bd76-c0384ce22a18",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 UIN100",
+    "model": "UIN100",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量30TON，面密度100g/m2。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.10 mm",
+      "树脂含量": "25%",
+      "纤维模量": "30TON",
+      "纤维面密度": "100 g/m2",
+      "预浸料密度": "133 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "63a109ef-e01a-4b2e-a54d-c57ad3dea7fb",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 UIN125",
+    "model": "UIN125",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量30TON，面密度125g/m2。",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.125 mm",
+      "树脂含量": "25%",
+      "纤维模量": "30TON",
+      "纤维面密度": "125 g/m2",
+      "预浸料密度": "167 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "c45bd4ca-6d08-46a7-8703-c7adcf020888",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 UIN150",
+    "model": "UIN150",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量30TON，面密度150g/m2。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.14 mm",
+      "树脂含量": "25%",
+      "纤维模量": "30TON",
+      "纤维面密度": "150 g/m2",
+      "预浸料密度": "200 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7
+    ]
+  },
+  {
+    "id": "46ef7884-cadf-4efa-a50f-108193a9bb13",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 UHN054",
+    "model": "UHN054",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量40TON，面密度54g/m2。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.06 mm",
+      "树脂含量": "38%",
+      "纤维模量": "40TON",
+      "纤维面密度": "54 g/m2",
+      "预浸料密度": "87 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": "e188b9ad-571e-434d-8bb4-df4810844d50",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 UHN075",
+    "model": "UHN075",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量40TON，面密度75g/m2。",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.08 mm",
+      "树脂含量": "30%",
+      "纤维模量": "40TON",
+      "纤维面密度": "75 g/m2",
+      "预浸料密度": "107 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": "c4aebe28-fad7-48b6-9096-abe5ed61fbca",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 UHN100",
+    "model": "UHN100",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量40TON，面密度100g/m2。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.1 mm",
+      "树脂含量": "25%",
+      "纤维模量": "40TON",
+      "纤维面密度": "100 g/m2",
+      "预浸料密度": "133 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": "b0bbf430-ed2f-4e27-8fc1-8ed58daa9891",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 UHN125",
+    "model": "UHN125",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量40TON，面密度125g/m2。",
+    "category_type": "COMMUNICATION",
+    "category_name": "通信设备",
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.125 mm",
+      "树脂含量": "25%",
+      "纤维模量": "40TON",
+      "纤维面密度": "125 g/m2",
+      "预浸料密度": "167 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": "1fc5b644-02da-428c-9ca2-f4d1648f1323",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维单向预浸料 UHN150",
+    "model": "UHN150",
+    "brand": null,
+    "summary": "碳纤维单向预浸料，纤维模量40TON，面密度150g/m2。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "幅度": "1000 mm",
+      "标准厚度": "0.14 mm",
+      "树脂含量": "25%",
+      "纤维模量": "40TON",
+      "纤维面密度": "150 g/m2",
+      "预浸料密度": "200 g/m2"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": "e8107ad5-d2a0-4b45-9018-2a5f94086f4c",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "3K碳纤维板",
+    "model": null,
+    "brand": "赛瑞",
+    "summary": "多种规格的3K碳纤维板材，厚度可定制，适用于汽车、体育器械等领域。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "厚度": "0.5~10mm",
+      "备注": "尺寸均可切割",
+      "规格尺寸": "200×300mm"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      9
+    ]
+  },
+  {
+    "id": "b5587e83-c98c-4277-a21e-41564f0e63b3",
+    "document_id": "f8d942bf-41c5-4639-af61-7a4598912bcf",
+    "name": "碳纤维管材",
+    "model": null,
+    "brand": "赛瑞",
+    "summary": "碳纤维管材，多种规格可选，可定制尺寸和长度。",
+    "category_type": null,
+    "category_name": null,
+    "specs": {
+      "备注": "3K/UD外观可定制尺寸和长度(定制最大长度为3M、最大外径为300mm)",
+      "内径(ID)": "8, 10, 11, 14, 18, 20, 20, 22, 23, 27, 28, 29, 32, 36, 70 mm",
+      "外径(OD)": "10, 12, 12, 16, 20, 22, 25, 25, 26, 30, 30, 32, 35, 40, 76 mm"
+    },
+    "source_filename": "赛瑞画册.pdf",
+    "created_at": "2026-06-10T11:44:11.262142",
+    "updated_at": "2026-06-10T11:44:11.262142",
+    "page_numbers": [
+      9
+    ]
   }
 ]

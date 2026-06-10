@@ -427,11 +427,11 @@
     "file_path": "uploads/9990ef00-1dc2-4cce-995a-d953c920ef65/确认--擎动千机参数卡（中英文）0523.pdf",
     "title": "确认--擎动千机参数卡（中英文）0523",
     "description": null,
-    "status": "processing",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 39,
     "tags": [],
     "uploaded_at": "2026-06-10T11:45:59.819985",
-    "updated_at": "2026-06-10T11:45:59.819985"
+    "updated_at": "2026-06-10T12:24:52.523531"
   },
   {
     "id": "02ff7a73-328d-4cf7-aa03-e070cd8ef74f",

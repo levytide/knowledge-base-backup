@@ -287,11 +287,11 @@
     "file_path": "uploads/57191332-1a0b-4234-84a6-1160b38ae9e8/亿为-无人机电池.pdf",
     "title": "亿为-无人机电池",
     "description": null,
-    "status": "processing",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 117,
     "tags": [],
     "uploaded_at": "2026-06-10T11:43:24.043195",
-    "updated_at": "2026-06-10T11:43:24.043195"
+    "updated_at": "2026-06-10T11:50:05.873320"
   },
   {
     "id": "9303a1e1-470e-4289-b8fd-309f80250ae3",

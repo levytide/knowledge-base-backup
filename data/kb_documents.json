@@ -343,11 +343,11 @@
     "file_path": "uploads/19fc1ca3-d69e-4525-af1d-d62fde277c2a/泉州市因泰电池（高倍率电池）.pptx",
     "title": "泉州市因泰电池（高倍率电池）",
     "description": null,
-    "status": "processing",
+    "status": "error",
     "chunk_count": 0,
     "tags": [],
     "uploaded_at": "2026-06-10T11:43:56.117734",
-    "updated_at": "2026-06-10T11:43:56.117734"
+    "updated_at": "2026-06-10T11:53:26.780135"
   },
   {
     "id": "77b5f0be-8015-4844-ac42-d38e5eb025a3",
@@ -357,11 +357,11 @@
     "file_path": "uploads/77b5f0be-8015-4844-ac42-d38e5eb025a3/UAV Battery Album V2.6.pdf",
     "title": "UAV Battery Album V2.6",
     "description": null,
-    "status": "processing",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 217,
     "tags": [],
     "uploaded_at": "2026-06-10T11:44:27.181585",
-    "updated_at": "2026-06-10T11:44:27.181585"
+    "updated_at": "2026-06-10T11:56:31.132082"
   },
   {
     "id": "5613b22f-6911-412e-8cdf-e0c1abdcf78a",
@@ -474,5 +474,19 @@
     "tags": [],
     "uploaded_at": "2026-06-10T11:52:04.657020",
     "updated_at": "2026-06-10T11:52:04.657020"
+  },
+  {
+    "id": "03d1b2c0-06a2-48d9-a458-91eb1eb85de1",
+    "filename": "最新产品图册CN 8-26.pdf",
+    "file_type": "pdf",
+    "file_size": 54105595,
+    "file_path": "uploads/03d1b2c0-06a2-48d9-a458-91eb1eb85de1/最新产品图册CN 8-26.pdf",
+    "title": "最新产品图册CN 8-26",
+    "description": null,
+    "status": "processing",
+    "chunk_count": 0,
+    "tags": [],
+    "uploaded_at": "2026-06-10T11:56:11.297752",
+    "updated_at": "2026-06-10T11:56:11.297752"
   }
 ]

@@ -315,11 +315,11 @@
     "file_path": "uploads/3ad7d684-8746-4340-823e-ab5167f8e0f5/承恩公司介绍 中文.pdf",
     "title": "承恩公司介绍 中文",
     "description": null,
-    "status": "processing",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 31,
     "tags": [],
     "uploaded_at": "2026-06-10T11:43:37.718177",
-    "updated_at": "2026-06-10T11:43:37.718177"
+    "updated_at": "2026-06-10T11:52:47.941309"
   },
   {
     "id": "95be8268-f08f-4945-bdf3-01cc3fbdb59d",
@@ -460,5 +460,19 @@
     "tags": [],
     "uploaded_at": "2026-06-10T11:50:46.046771",
     "updated_at": "2026-06-10T11:50:46.046771"
+  },
+  {
+    "id": "daf4ce5e-6b93-4685-8719-59b124d4dffe",
+    "filename": "Zeee 2026 catalog.xlsx",
+    "file_type": "xlsx",
+    "file_size": 49077751,
+    "file_path": "uploads/daf4ce5e-6b93-4685-8719-59b124d4dffe/Zeee 2026 catalog.xlsx",
+    "title": "Zeee 2026 catalog",
+    "description": null,
+    "status": "processing",
+    "chunk_count": 0,
+    "tags": [],
+    "uploaded_at": "2026-06-10T11:52:04.657020",
+    "updated_at": "2026-06-10T11:52:04.657020"
   }
 ]

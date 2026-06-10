@@ -413,11 +413,11 @@
     "file_path": "uploads/29be7c71-9657-4627-bdd0-e958d161c6a8/瞰天科技智能视觉导航系统.pdf",
     "title": "瞰天科技智能视觉导航系统",
     "description": null,
-    "status": "processing",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 17,
     "tags": [],
     "uploaded_at": "2026-06-10T11:45:31.362910",
-    "updated_at": "2026-06-10T11:45:31.362910"
+    "updated_at": "2026-06-10T11:48:45.682490"
   },
   {
     "id": "9990ef00-1dc2-4cce-995a-d953c920ef65",

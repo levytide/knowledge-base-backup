@@ -343,11 +343,11 @@
     "file_path": "uploads/19fc1ca3-d69e-4525-af1d-d62fde277c2a/泉州市因泰电池（高倍率电池）.pptx",
     "title": "泉州市因泰电池（高倍率电池）",
     "description": null,
-    "status": "processing",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 106,
     "tags": [],
     "uploaded_at": "2026-06-10T11:43:56.117734",
-    "updated_at": "2026-07-15T14:58:37.930117"
+    "updated_at": "2026-07-15T15:06:53.266357"
   },
   {
     "id": "77b5f0be-8015-4844-ac42-d38e5eb025a3",

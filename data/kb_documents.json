@@ -175,11 +175,11 @@
     "file_path": "uploads/299f03fd-1993-4522-ab03-0688a1e054ca/思翼产品画册-202604.pdf",
     "title": "思翼产品画册-202604",
     "description": null,
-    "status": "processing",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 121,
     "tags": [],
     "uploaded_at": "2026-06-06T11:01:41.442477",
-    "updated_at": "2026-07-15T14:58:37.930117"
+    "updated_at": "2026-07-15T15:04:54.174964"
   },
   {
     "id": "3a96214b-0cf9-4f90-9a3c-9f513e6878c7",

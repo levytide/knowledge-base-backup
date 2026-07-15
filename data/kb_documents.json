@@ -175,11 +175,11 @@
     "file_path": "uploads/299f03fd-1993-4522-ab03-0688a1e054ca/思翼产品画册-202604.pdf",
     "title": "思翼产品画册-202604",
     "description": null,
-    "status": "error",
+    "status": "processing",
     "chunk_count": 0,
     "tags": [],
     "uploaded_at": "2026-06-06T11:01:41.442477",
-    "updated_at": "2026-06-06T11:02:09.572295"
+    "updated_at": "2026-07-15T14:58:37.930117"
   },
   {
     "id": "3a96214b-0cf9-4f90-9a3c-9f513e6878c7",
@@ -343,11 +343,11 @@
     "file_path": "uploads/19fc1ca3-d69e-4525-af1d-d62fde277c2a/泉州市因泰电池（高倍率电池）.pptx",
     "title": "泉州市因泰电池（高倍率电池）",
     "description": null,
-    "status": "error",
+    "status": "processing",
     "chunk_count": 0,
     "tags": [],
     "uploaded_at": "2026-06-10T11:43:56.117734",
-    "updated_at": "2026-07-15T14:42:24.511311"
+    "updated_at": "2026-07-15T14:58:37.930117"
   },
   {
     "id": "77b5f0be-8015-4844-ac42-d38e5eb025a3",
@@ -441,11 +441,11 @@
     "file_path": "uploads/02ff7a73-328d-4cf7-aa03-e070cd8ef74f/1_低空经济装备互连整体方案和连接器选用手册HF1.0.pdf",
     "title": "1_低空经济装备互连整体方案和连接器选用手册HF1.0",
     "description": null,
-    "status": "error",
+    "status": "processing",
     "chunk_count": 0,
     "tags": [],
     "uploaded_at": "2026-06-10T11:47:19.127549",
-    "updated_at": "2026-06-10T12:25:41.902146"
+    "updated_at": "2026-07-15T14:58:37.930117"
   },
   {
     "id": "94e5db86-6af4-456e-83bf-bfe5a40ed5ca",
@@ -483,11 +483,11 @@
     "file_path": "uploads/03d1b2c0-06a2-48d9-a458-91eb1eb85de1/最新产品图册CN 8-26.pdf",
     "title": "最新产品图册CN 8-26",
     "description": null,
-    "status": "error",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 152,
     "tags": [],
     "uploaded_at": "2026-06-10T11:56:11.297752",
-    "updated_at": "2026-06-10T12:33:47.065692"
+    "updated_at": "2026-07-15T14:59:52.406249"
   },
   {
     "id": "1164b196-f412-4b7e-94dc-304a8719ef49",

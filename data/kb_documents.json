@@ -347,7 +347,7 @@
     "chunk_count": 0,
     "tags": [],
     "uploaded_at": "2026-06-10T11:43:56.117734",
-    "updated_at": "2026-06-10T11:53:26.780135"
+    "updated_at": "2026-07-15T14:42:24.511311"
   },
   {
     "id": "77b5f0be-8015-4844-ac42-d38e5eb025a3",
@@ -497,10 +497,10 @@
     "file_path": "uploads/1164b196-f412-4b7e-94dc-304a8719ef49/智圣固能产品画册Zhisheng Guoneng Product Catalog.pdf",
     "title": "智圣固能产品画册Zhisheng Guoneng Product Catalog",
     "description": null,
-    "status": "error",
-    "chunk_count": 0,
+    "status": "ready",
+    "chunk_count": 46,
     "tags": [],
     "uploaded_at": "2026-06-10T11:58:18.330856",
-    "updated_at": "2026-06-10T12:33:47.073948"
+    "updated_at": "2026-07-15T14:55:20.861928"
   }
 ]
